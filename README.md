@@ -1,5 +1,5 @@
 <h1 align="center">🚀 MAKA — Smart Business Management Platform</h1>
-<h3 align="center">Enterprise-Grade CRM & ERP with AI, Microservices & Cloud Architecture</h3>
+<h3 align="center">Enterprise-Grade CRM & ERP with AI, Microservices Architecture</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge"/>
