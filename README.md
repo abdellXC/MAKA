@@ -49,7 +49,3 @@ MAKA uses a **microservices architecture** connected via **Kafka** and **MCP (Mo
 | **Web Interface** | `React + Tailwind CSS` | Unified web dashboard (responsive, dark/light modes) |
 
 ---
-
-
-# Access the platform
-http://localhost:8080
