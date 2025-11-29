@@ -1,4 +1,4 @@
-<h1 align="center">🚀 MAKA — Smart Business Management Platform</h1>
+<h1 align="center">🚀 MAKA</h1>
 <h3 align="center">Enterprise-Grade CRM & ERP with AI, Microservices Architecture</h3>
 
 <p align="center">
